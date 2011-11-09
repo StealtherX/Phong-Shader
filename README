@@ -1,6 +1,6 @@
 Phong Shader by Kevin Jacobs
 
-This is a simple Phong Shading app. Use the data.3d file as the sample data input. 
+This is a program demonstrating Phong Shading of polygons. Use the data.3d file as the sample data input. 
 
 System Requirements:
 
