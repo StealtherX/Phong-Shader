@@ -1,5 +1,7 @@
 Phong Shader by Kevin Jacobs
 
+This is a simple Phong Shading app. Use the data.3d file as the sample data input. 
+
 System Requirements:
 
     Tested on Ubuntu 10.10 and 11.04
@@ -7,3 +9,4 @@ System Requirements:
     QT SDK
     GLUT
 
+Compile using QT Creator and run the compile excutable.
